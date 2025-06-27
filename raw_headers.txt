@@ -1,0 +1,27 @@
+POST /youtubei/v1/browse?prettyPrint=false HTTP/2
+Host: music.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Content-Length: 3388
+Referer: https://music.youtube.com/search?q=rex%20orange%20county
+X-Goog-Visitor-Id: CgtCOEZZUWROMC1Qayjyq_rCBjInCgJGUhIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAR
+X-Youtube-Bootstrap-Logged-In: true
+X-Youtube-Client-Name: 67
+X-Youtube-Client-Version: 1.20250623.03.00
+X-Goog-AuthUser: 1
+X-Origin: https://music.youtube.com
+Origin: https://music.youtube.com
+DNT: 1
+Sec-GPC: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+Authorization: SAPISIDHASH 1751029576_bbea301a624488413c66ad68f4867ede95b8b06f_u SAPISID1PHASH 1751029576_bbea301a624488413c66ad68f4867ede95b8b06f_u SAPISID3PHASH 1751029576_bbea301a624488413c66ad68f4867ede95b8b06f_u
+Connection: keep-alive
+Alt-Used: music.youtube.com
+Cookie: VISITOR_PRIVACY_METADATA=CgJGUhIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAR; __Secure-ROLLOUT_TOKEN=CNKeg7iXr-DnxgEQ6bbd-7uCjAMYka6P9ZuRjgM%3D; PREF=f6=40000000&tz=Asia.Riyadh&f7=100&f4=4000000; __Secure-1PSIDTS=sidts-CjEB5H03PxQ8eia-FoMVNha2J-mL5GtR1qQdS9u-c7Jw0zAaXIjG2rkk0hGpNVxumwoOEAA; __Secure-3PSIDTS=sidts-CjEB5H03PxQ8eia-FoMVNha2J-mL5GtR1qQdS9u-c7Jw0zAaXIjG2rkk0hGpNVxumwoOEAA; __Secure-3PAPISID=AtheOLFAwyd3DuPh/AKlBdY_iPOSuWcGUf; __Secure-3PSID=g.a000ygh45nBhLaUEqjAeJScGo25ElodTPIqfcm72cFupmhdlpKpv0gRisSOoUBaKtO-PQiKNqwACgYKAYwSARQSFQHGX2MisCdAFsQjYStjEx6OeUWzfxoVAUF8yKrYTFSMJClsZorILf-T61gs0076; __Secure-3PSIDCC=AKEyXzXnxICWEJZNYgNNeNt5MklKPx0M7gcyCEKqO8y8I-QP28w1QFTiiKhCnfA4RU6GwYiJPg; __Secure-YEC=CgtWYUN0SXNZT1NhQSi_lNDCBjIKCgJTQRIEGgAgZQ%3D%3D; HSID=AfULX1aYlRxtWUWti; SSID=Ai6HfUAz5r9hdjPL2; APISID=f1gv2RJoXh409otv/AB4J-bWlO7DZRK65z; SAPISID=AtheOLFAwyd3DuPh/AKlBdY_iPOSuWcGUf; __Secure-1PAPISID=AtheOLFAwyd3DuPh/AKlBdY_iPOSuWcGUf; SID=g.a000ygh45nBhLaUEqjAeJScGo25ElodTPIqfcm72cFupmhdlpKpvycFmG1BUl59gg7UNcysZIQACgYKAagSARQSFQHGX2Min8B-R_h2iPCaQ5bOuqlRyRoVAUF8yKqnVJ44Byo6y_Rg8o4RS8Ng0076; __Secure-1PSID=g.a000ygh45nBhLaUEqjAeJScGo25ElodTPIqfcm72cFupmhdlpKpv4zkLhQEzx_7qck5W5D-u7wACgYKAc8SARQSFQHGX2MiOY4EjUKR1XvmObGmZuiCDhoVAUF8yKqZv1wE8yftVbigKTCWetJ_0076; LOGIN_INFO=AFmmF2swRQIhAOShiMxlAn6z3ka9TzQPluUT6zEzCQvh-zm3CRnKlLJ6AiBuvwNv291lsYKUT1AE8by-Cnd9KVJNnC9gc6_KUIJBIQ:QUQ3MjNmeXNtNy0zUWxmODk0VnkzQ2J6VV85cjVNSkRXcG5YRE9JX2FwTno4S2VyUXhSQmd1RE5ZY2g0MEJ1U1cwanMwRUV4TEZMTFBWd09GYkY3WDJIMElmQlA3ejVtZDF2NHBIMFdtcUdjTVA1a0pCU2d5ZGlHSEtmUjJKcG11cFJ5M3JLSl93OHVIczFPWTJYNnIzdlJWVExMbW0yaFB3; SIDCC=AKEyXzVP2F4Edq3d3jwbsAXPtiSTCzdgSxtMQ1Sf3Wh7QBKzV1uRJYwWyrbhRZaVZ5L-_7Y41rI; __Secure-1PSIDCC=AKEyXzXYpiIrAg8jghZL0tosrBh2GJctD0qACpYmkkC-OrLYwxY4Gywh31MA4DSgYsmtRXa-zA; VISITOR_INFO1_LIVE=B8FYQdN0-Pk; YSC=Z7Uq95e5LEs; CONSISTENCY=AKreu9v8XZlaXb5H4fzjjqiPWxFsMvdtuaWAth7W6esVBQ4iTbrTONJmEtPRtdhW4hjKzmqrIJttmsns6f3wwS0VCkZDsIcD7fPmfKGS8J8X0JKC3KiSdsAgC2SxY8zbMNRE7E5ulpRhx7GuGQJfwltgT39TcwbVsLmpy9R5n90N5g
+Priority: u=0
+TE: trailers
